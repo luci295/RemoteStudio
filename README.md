@@ -1,5 +1,7 @@
 # RemoteStudio
 
+![RemoteStudio Android App](RemoteStudio-Android-App.jpg)
+
 ### Vintage Soul. Modern Technology.
 
 **Bluetooth Remote Control App for the Technics RS-BX747 Vintage Cassette Deck**
